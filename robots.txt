@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /sitemap.xml
+Allow: /frases-bonitas-de-amistad/
+Allow: /frases-bonitas-de-la-vida/
+Allow: /frases-para-esa-persona-especial-que-esta-lejos/
+Allow: /frases-de-buenas-noches-para-mi-amiga/
+Disallow: /frases-para-mi-abuelo-que-esta-en-el-cielo/
+Allow: /buenas-noches/
+Allow: /buenas-noches/romanticas/
+Allow: /buenas-noches/princesa/
+Allow: /buenas-noches/familia/
+Disallow: /apk-oficial/
+Disallow: /_nuxt/
