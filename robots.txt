@@ -9,5 +9,4 @@ Allow: /buenas-noches/
 Allow: /buenas-noches/romanticas/
 Allow: /buenas-noches/princesa/
 Allow: /buenas-noches/familia/
-Disallow: /apk-oficial/
 Disallow: /_nuxt/
